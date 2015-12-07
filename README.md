@@ -1,15 +1,5 @@
 # FlappyDemo
 
-# This fork
-
-### Videocapture
-
-https://youtu.be/89bJsJl_d2M
-
-### To submit
-
-https://classroom.github.com/assignment-invitations/f955a2499c4eb245119b95ed505497a5 
-
 ### Clone
 
 ```shell
